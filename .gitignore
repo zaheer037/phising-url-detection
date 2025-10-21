@@ -1,0 +1,72 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer / PyInstaller
+*.spec
+
+# Jupyter Notebook checkpoints and outputs
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.nbconverted
+outputs/
+notebooks/.ipynb_checkpoints
+
+# Data, models, and large artifacts
+data/
+datasets/
+data_raw/
+models/
+checkpoints/
+*.h5
+*.pth
+*.pkl
+*.joblib
+*.sav
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+temp/
+*.tmp
+.cache/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / credentials
+credentials.json
+secrets.json
+*.key
+*.pem
+
+# one-off
+!.gitignore
