@@ -9,7 +9,7 @@
 
 **Real-Time ML-Based Threat Analysis System**
 
-[🚀 Live Demo](https://cybergaurd-vksq.onrender.com) | [📖 Documentation](#features) | [🤝 Contributing](#contributing)
+[🚀 Live Demo](https://cybergaurd-vksq.onrender.com) | [📖 Documentation](#-features) | [🤝 Contributing](#-contributing)
 
 </div>
 
