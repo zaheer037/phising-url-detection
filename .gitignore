@@ -38,6 +38,9 @@ checkpoints/
 *.joblib
 *.sav
 
+# Exception: Include the trained model for deployment
+!pickle/model.pkl
+
 # Logs and temporary files
 logs/
 *.log
